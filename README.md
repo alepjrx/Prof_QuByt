@@ -19,17 +19,29 @@ Projeto que serve como ferramenta de estudo e portfólio inicial.
 Estrutura do projeto:
 
 prof-qubyt/ 
+
 ├── qubyt/
+
 │ ├── init.py
+
 │ ├── main.py
+
 │ ├── knowledge_base.py
+
 │ ├── progress.py
+
 │ ├── quiz.py
+
 │ └── utils.py (em breve)
+
 ├── data/
+
 │ ├── init.py
+
 │ └── progress.json
+
 ├── README.md
+
 └── requirements.txt
 
 ---
